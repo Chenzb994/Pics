@@ -1,2 +1,2 @@
-# Pics
+# MyPics
 Picture warehouse
